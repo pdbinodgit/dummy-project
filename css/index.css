@@ -1,0 +1,106 @@
+.images {
+    width: 1500px;
+    height: 750px;
+    margin-left: 10px;
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.heading-flex {
+    position: absolute;
+    top: 0;
+    display: flex;
+    /* background-color: aliceblue; */
+}
+
+.menu {
+    text-align: center;
+    /* background-color: antiquewhite ; */
+    margin-left: 250px;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 55px;
+    
+}
+.active{
+    color: black;
+    font-size: 17px;
+    font-family: sans-serif;
+    padding-left: 40px;
+    text-decoration: none;
+
+}
+
+.logo-image {
+    height: 85px;
+    width: 85px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+   
+
+  }
+  
+  li {
+    display: inline;
+  
+  }
+  .background-image{
+    margin-bottom: 15px;
+  }
+  .active:hover{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .facebook{
+    width: 30px;
+    height: 30px;
+    margin-top: 30px;
+    padding-left: 15px;
+    margin-left: 150px;
+  }
+  .twitter{
+    width: 25px;
+    height: 25px;
+    margin-top: 30px;
+    padding-left: 5px;
+    margin-left: 5px;
+  }
+  
+
+
+  .motive-flex{
+    position: fixed;
+    top: 0;
+    /* margin-left: 90px; */
+    display: flex;
+  
+  }
+  .motive-button{
+    margin-left: 20px;
+    margin-top: 200px;
+    height: 90px;
+    width: 90px;
+  }
+  .quote-first{
+    margin-top: 200px;
+    margin-left: 200px;
+    font-size: 20px;
+  }
+  .motive-button:hover{
+    width: 130px;
+     height: 130px;
+     box-shadow: 3px 6px 2px #a38a8a
+  }
+  .facebook:hover{
+    width: 40px;
+    height: 40px;
+  }
+  .twitter:hover{
+    width: 40px;
+    height: 40px;
+ 
+  }
